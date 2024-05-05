@@ -7,4 +7,4 @@ https://waqarahmad0.github.io/Html-Css-Portfolio/Feliciano
 #
 https://waqarahmad0.github.io/Html-Css-Portfolio/Narosundar%20barber
 #
-https://waqarahmad0.github.io/Html-Css-Portfolio/Feliciano
+https://waqarahmad0.github.io/Html-Css-Portfolio/architecture-design
